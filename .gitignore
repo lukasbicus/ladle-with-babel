@@ -1,2 +1,15 @@
 .idea
 node_modules
+
+# Yarn Berry
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Optional: Zero-installs
+# Comment out the line below to enable Zero-installs
+# !.yarn/cache
