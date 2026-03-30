@@ -30,7 +30,6 @@ export default defineConfig({
           ]
         ],
         plugins: [
-          'react-require',
           'jsx-control-statements',
           [
             'module-resolver',
