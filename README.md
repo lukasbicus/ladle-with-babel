@@ -1,6 +1,6 @@
-# Ladle + Vite 6 + Custom Babel Reproduction
+# Ladle + Vite + Custom Babel Reproduction
 
-This project demonstrates an issue (or the setup required) for using Ladle with Vite 6 and custom Babel transformations (like `jsx-control-statements` and `babel-plugin-inline-react-svg`).
+This project demonstrates an issue (or the setup required) for using Ladle with Vite and custom Babel transformations (like `jsx-control-statements` and `babel-plugin-inline-react-svg`).
 
 ## Setup
 
