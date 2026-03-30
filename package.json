@@ -20,6 +20,7 @@
     "jsx-control-statements": "^3.2.8",
     "module-resolver": "^1.0.0",
     "react": "^19.2.4",
-    "react-dom": "^19.2.4"
+    "react-dom": "^19.2.4",
+    "styled-components": "^6.3.12"
   }
 }
